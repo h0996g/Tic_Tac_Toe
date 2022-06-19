@@ -18,6 +18,7 @@ class _HomeState extends State<Home> {
   double l = 0, r = 0, t = 0, b = 0;
 
   //pop//
+  //test//
   bool p1win = false;
   bool p2win = false;
   bool tied = false;
